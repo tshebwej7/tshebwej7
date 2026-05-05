@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jires Tshebwe
 
-<!--
-**tshebwej7/tshebwej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Web Developer.
 
-Here are some ideas to get you started:
+## About Me
+- Certified in Responsive Web Design (freeCodeCamp)
+- I build responsive websites using HTML and CSS
+- Currently learning JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Landing Page (link coming soon)
+- Survey Form (link coming soon)
+- Documentation Page (link coming soon)
+
+## Skills
+- HTML
+- CSS
+- GitHub
