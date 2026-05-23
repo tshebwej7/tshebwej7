@@ -8,7 +8,7 @@ Aspiring Full Stack Web Developer.
 - Currently learning JavaScript
 
 ## Projects
-- Landing Page (link coming soon)
+- SmartWatch Pro Landing Page (https://tshebwej7.github.io/SmartWatch-Pro-Landing-Page/)
 - Survey Form (link coming soon)
 - Documentation Page (link coming soon)
 
