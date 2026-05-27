@@ -9,8 +9,8 @@ Aspiring Full Stack Web Developer.
 
 ## Projects
 - SmartWatch Pro Landing Page (https://tshebwej7.github.io/SmartWatch-Pro-Landing-Page/)
-- Survey Form (link coming soon)
-- Documentation Page (link coming soon)
+- Survey Form (https://tshebwej7.github.io/developer-survey-form/)
+- Documentation Page (https://tshebwej7.github.io/python-technical-documentation/)
 
 ## Skills
 - HTML
