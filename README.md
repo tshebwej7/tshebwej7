@@ -1,21 +1,29 @@
 # Hi, I'm Jires Tshebwe 👋
 
-### Aspiring Full Stack Web Developer
+### Junior Web Developer | Building Toward Full-Stack Development
 
-I am currently progressing through a six-module Full Stack Web Development journey, building practical projects and developing my skills across modern web technologies.
+I build responsive, interactive, and user-focused web experiences with a strong foundation in HTML, CSS, and JavaScript.
+
+My development journey combines structured learning through freeCodeCamp and WeThinkCode_ with hands-on project development, Git/GitHub workflows, responsive UI implementation, deployment, and Generative AI-assisted software development.
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Completed Responsive Web Design certification through freeCodeCamp
-- ⚡ Completed the JavaScript curriculum through freeCodeCamp
-- 🌐 Building responsive and interactive web applications
-- 🚀 Deploying projects as live websites
-- 🐙 Publishing and maintaining projects on GitHub
-- 🤖 Currently enrolled in WeThinkCode_'s Generative AI Course for software developers
-- 📚 Continuing to develop my skills toward becoming a Full Stack Web Developer
+- 🌐 Focused on modern web development and responsive user interfaces
+- ⚡ Completed the **JavaScript curriculum** through freeCodeCamp
+- 🎨 Certified in **Responsive Web Design** through freeCodeCamp
+- 🤖 Certified in **Generative AI for Software Development** through WeThinkCode_
+- 🛠️ Building and deploying practical web projects
+- 🐙 Using Git and GitHub for version control and project development
+- 💻 Working with HTML5, CSS3, JavaScript, Tailwind CSS, and modern development workflows
+- 🚀 Currently progressing toward full-stack development, with backend development, APIs, databases, and application architecture as the next stages of my learning journey
+
+---
 
 ## 🛠️ Skills & Technologies
 
+### Frontend Development
 - HTML5
 - CSS3
 - JavaScript
@@ -23,72 +31,173 @@ I am currently progressing through a six-module Full Stack Web Development journ
 - Flexbox
 - CSS Grid
 - Tailwind CSS
+- Chart.js
+
+### Development Tools
 - Git
 - GitHub
+- Visual Studio Code
+- Browser Developer Tools
+- GitHub Pages
+
+### Generative AI for Software Development
+- AI-assisted coding
+- Code comprehension
+- Documentation
+- Debugging
+- Testing
+- Refactoring
+- Code verification
+- Learning frameworks, libraries, and APIs
+- AI-assisted software development workflows
+
+---
+
+## 🎓 Certifications & Completed Learning
+
+### Responsive Web Design — freeCodeCamp
+**Certified**
+
+Completed the Responsive Web Design certification, covering practical HTML and CSS development, responsive layouts, accessibility, Flexbox, CSS Grid, and modern responsive design principles.
+
+### JavaScript — freeCodeCamp
+**Completed**
+
+Completed the JavaScript curriculum, strengthening understanding of programming fundamentals, JavaScript syntax, functions, arrays, objects, DOM-related concepts, and interactive web development.
+
+### Generative AI for Software Development — WeThinkCode_
+**Certified**
+
+Earned certification in Generative AI for Software Development, with practical exposure to using Generative AI for code understanding, documentation, debugging, testing, refactoring, code assistance, and learning software technologies.
+
+---
 
 ## 🚀 Featured Projects
 
-### Elsha Trading Solution — Corporate Website
+### The Fade Room — Barber Shop Booking Website
 
-A modern, responsive corporate website developed for an electrical contracting company, with a focus on professional UI/UX, responsive design, reusable components, maintainable code, and a consistent design system.
+Professional responsive barber shop website developed as a practical Junior Full-Stack Developer assessment project.
 
-**Technologies:** HTML5, Tailwind CSS, JavaScript
+**Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS
 
-🔗 [Live Website](IN_PROGRESS)
-🔗 [GitHub Repository](IN_PROGRESS)
+**Features:**
+- Responsive desktop/tablet/mobile design
+- Service selection
+- Barber selection
+- Date and time selection
+- Customer information
+- Dynamic appointment duration
+- Google Calendar integration
+- Apple Calendar-compatible .ics generation
+- Terms & Conditions
+- Promotional popup
+- Responsive navigation and UI
 
-### SmartWatch Pro — Product Landing Page
+🔗 [Live Website](https://tshebwej7.github.io/the-fade-room-website/)
+🔗 [GitHub Repository](https://github.com/tshebwej7/the-fade-room-website)
 
-A responsive product landing page developed as part of my web development learning journey, focusing on responsive layouts, structured page design, visual hierarchy, and user experience.
+### Admin Dashboard
 
-**Technologies:** HTML5, CSS3
+Responsive admin dashboard demonstrating JavaScript, UI design, data visualization, and application-style interface development.
 
-🔗 [Live Demo](https://tshebwej7.github.io/SmartWatch-Pro-Landing-Page/)
-🔗 [GitHub Repository](https://github.com/tshebwej7/SmartWatch-Pro-Landing-Page)
+**Technologies:** HTML5, CSS3, JavaScript, Chart.js
 
-### Book Inventory App
+**Features:**
+- Responsive layout
+- Dark mode
+- LocalStorage persistence
+- Data visualization
+- Sidebar navigation
+- Statistics cards
+- Recent orders interface
 
-A web-based application developed using HTML, CSS, and JavaScript, demonstrating my progression from responsive web design into interactive web application development.
+🔗 [Live Website](https://tshebwej7.github.io/admin-dashboard/)
+🔗 [GitHub Repository](https://github.com/tshebwej7/admin-dashboard)
+
+### Developer Portfolio
+
+Personal portfolio website showcasing projects, certifications, skills, and my development journey.
 
 **Technologies:** HTML5, CSS3, JavaScript
 
-🔗 [Live Demo](https://tshebwej7.github.io/book-inventory-app/)
+🔗 [Live Website](https://tshebwej7.github.io/portfolio-website/)
+🔗 [GitHub Repository](https://github.com/tshebwej7/portfolio-website)
+
+### AI Code Exercises
+
+Collection of software development exercises from my Generative AI for Software Development learning, covering code comprehension, algorithm analysis, documentation, debugging, testing, performance optimization, and refactoring.
+
+🔗 [GitHub Repository](https://github.com/tshebwej7/ai-code-exercises)
+
+---
+
+## 📚 Additional Projects
+
+### SmartWatch Pro — Product Landing Page
+Responsive product landing page built with HTML5 and CSS3.
+
+🔗 [Live Website](https://tshebwej7.github.io/SmartWatch-Pro-Landing-Page/)
+🔗 [GitHub Repository](https://github.com/tshebwej7/SmartWatch-Pro-Landing-Page)
+
+### BookVault Inventory App
+Responsive book inventory application built with HTML5 and CSS3.
+
+🔗 [Live Website](https://tshebwej7.github.io/book-inventory-app/)
 🔗 [GitHub Repository](https://github.com/tshebwej7/book-inventory-app)
 
 ### Python Technical Documentation
+Professional responsive technical documentation website.
 
-A responsive technical documentation website designed to present structured programming information through organized content sections and navigation.
-
-**Technologies:** HTML5, CSS3
-
-🔗 [Live Demo](https://tshebwej7.github.io/python-technical-documentation/)
+🔗 [Live Website](https://tshebwej7.github.io/python-technical-documentation/)
 🔗 [GitHub Repository](https://github.com/tshebwej7/python-technical-documentation)
 
-### Developer Survey Form
+### Developer Experience Survey
+Responsive survey application built with HTML5, CSS3, and JavaScript.
 
-A responsive survey form application demonstrating structured HTML forms, user input elements, responsive layouts, and usability-focused design.
-
-**Technologies:** HTML5, CSS3
-
-🔗 [Live Demo](https://tshebwej7.github.io/developer-survey-form/)
+🔗 [Live Website](https://tshebwej7.github.io/developer-survey-form/)
 🔗 [GitHub Repository](https://github.com/tshebwej7/developer-survey-form)
 
-## 🎓 Current Learning
+---
 
-### Full Stack Web Development — freeCodeCamp
-Currently progressing through a six-module development journey, building practical projects while expanding my front-end and back-end development skills.
+## 📈 Development Journey
 
-### Generative AI for Software Developers — WeThinkCode_
-Currently enrolled in a Generative AI course focused on understanding and applying Generative AI within software development.
+Responsive Web Design → JavaScript → Generative AI for Software Development → Practical Frontend Projects → Interactive Web Applications → Professional Website Development → Full-Stack Development
 
-## 📈 Current Focus
+Continuing to expand into backend technologies, APIs, databases, authentication, and complete full-stack applications.
 
-- Full Stack Web Development
-- JavaScript
-- Building and deploying practical web projects
-- Git & GitHub
+---
+
+## 🎯 Current Focus
+
+- Building professional web applications
+- Strengthening JavaScript development
+- Responsive and accessible UI
+- Tailwind CSS
+- Git/GitHub workflows
 - Generative AI for software development
+- Backend development
+- APIs and databases
+- Full-stack application development
 
-## 🎯 Career Goal
+---
 
-To grow into a well-rounded Full Stack Web Developer and gain professional experience through internships, junior developer opportunities, and real-world software projects.
+## 🤝 Open to Opportunities
+
+Interested in:
+
+- Junior Web Developer
+- Junior Frontend Developer
+- Junior Full-Stack Developer
+- Software Development Internships
+- Entry-level software development opportunities
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: [github.com/tshebwej7](https://github.com/tshebwej7)
+- LinkedIn: [linkedin.com/in/tshebwej7](https://www.linkedin.com/in/tshebwej7/)
+
+### Thanks for visiting my profile!
+
+I'm continuously learning, building, testing, and improving — one project at a time.
