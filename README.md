@@ -4,7 +4,7 @@
 
 I build responsive, interactive, and user-focused web experiences with a strong foundation in HTML, CSS, and JavaScript.
 
-My development journey combines structured learning through freeCodeCamp and WeThinkCode_ with hands-on project development, Git/GitHub workflows, responsive UI implementation, deployment, and Generative AI-assisted software development.
+My development journey combines structured learning through freeCodeCamp, WeThinkCode_, and OpenAI Academy with hands-on project development, Git/GitHub workflows, responsive UI implementation, deployment, and Generative AI-assisted software development.
 
 ---
 
@@ -14,6 +14,7 @@ My development journey combines structured learning through freeCodeCamp and WeT
 - ⚡ Completed the **JavaScript curriculum** through freeCodeCamp
 - 🎨 Certified in **Responsive Web Design** through freeCodeCamp
 - 🤖 Certified in **Generative AI for Software Development** through WeThinkCode_
+- 🧠 Completed OpenAI Academy's **Apply AI at Work** pathway
 - 🛠️ Building and deploying practical web projects
 - 🐙 Using Git and GitHub for version control and project development
 - 💻 Working with HTML5, CSS3, JavaScript, Tailwind CSS, and modern development workflows
@@ -40,7 +41,7 @@ My development journey combines structured learning through freeCodeCamp and WeT
 - Browser Developer Tools
 - GitHub Pages
 
-### Generative AI for Software Development
+### Generative AI & Applied AI
 - AI-assisted coding
 - Code comprehension
 - Documentation
@@ -48,12 +49,23 @@ My development journey combines structured learning through freeCodeCamp and WeT
 - Testing
 - Refactoring
 - Code verification
-- Learning frameworks, libraries, and APIs
-- AI-assisted software development workflows
+- Prompting and providing context
+- Applying AI to workplace tasks and repeatable workflows
+- Reviewing AI outputs and maintaining human oversight
 
 ---
 
 ## 🎓 Certifications & Completed Learning
+
+### Apply AI at Work — OpenAI Academy
+**Pathway Completion Certificate | Completed November 26, 2026**
+
+Completed all three courses in the Apply AI at Work pathway and passed each assessment with a score of 80% or higher.
+
+- Credential ID: 201724768
+- Issued: November 26, 2026
+- Expires: May 26, 2027
+- [View credential](https://oaiacademy.credential.net/a71ac247-8997-4e6b-ac26-4b7e6a527b3a)
 
 ### Responsive Web Design — freeCodeCamp
 **Certified**
@@ -161,7 +173,7 @@ Responsive survey application built with HTML5, CSS3, and JavaScript.
 
 ## 📈 Development Journey
 
-Responsive Web Design → JavaScript → Generative AI for Software Development → Practical Frontend Projects → Interactive Web Applications → Professional Website Development → Full-Stack Development
+Responsive Web Design → JavaScript → Generative AI for Software Development → Apply AI at Work → Practical Frontend Projects → Interactive Web Applications → Professional Website Development → Full-Stack Development
 
 Continuing to expand into backend technologies, APIs, databases, authentication, and complete full-stack applications.
 
@@ -174,7 +186,7 @@ Continuing to expand into backend technologies, APIs, databases, authentication,
 - Responsive and accessible UI
 - Tailwind CSS
 - Git/GitHub workflows
-- Generative AI for software development
+- Applied AI and AI-assisted software development
 - Backend development
 - APIs and databases
 - Full-stack application development
@@ -184,7 +196,6 @@ Continuing to expand into backend technologies, APIs, databases, authentication,
 ## 🤝 Open to Opportunities
 
 Interested in:
-
 - Junior Web Developer
 - Junior Frontend Developer
 - Junior Full-Stack Developer
